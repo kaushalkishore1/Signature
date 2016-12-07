@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/appcolor</color>
+    <color name="colorPrimaryDark">@color/appcolor</color>
+    <color name="colorAccent">#ff5a00</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="appcolor">#02011a</color>
+
+    <color name="White_95">#F2FFFFFF</color>
+</resources>
